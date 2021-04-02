@@ -1,15 +1,20 @@
 # Grocery List
 
 ## Description
+
 It is a beginner friendly Grocery list App built using ReactJS and TypeScript.
 
 ## Demo
-👉 To be added.
+
+👉 [Link](unruffled-bardeen-8a446a.netlify.app/)
 
 ## Screenshot
-To be added.
+
+![screenshot](https://user-images.githubusercontent.com/4997491/99678169-8934b980-2aa0-11eb-9d2f-f5a6d573d35f.JPG)
+
 
 ## Installation
+
 Step 1 🍴 Fork this repo!
 
 Step 2 👯 Clone this repo to your local machine.
