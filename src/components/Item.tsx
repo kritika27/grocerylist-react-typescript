@@ -23,7 +23,6 @@ const Item :React.FC<FuncProps> = ({ id, item, remove,handleComplete,complete }:
           color: "white",
           fontSize: "20px",
         }}
-        
         className={complete ? "complete" : ""}
       />
       <img

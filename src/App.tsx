@@ -25,10 +25,6 @@ const App: React.FC =()=>{
     }
   };
 
-  React.useEffect(() => {
-    localStorage.setItem("data", JSON.stringify(list));
-  }, [list]);
-
   const handleChange = (e:React.ChangeEvent<HTMLInputElement>) => {
     setItem(e.target.value);
   };
@@ -73,9 +69,7 @@ const App: React.FC =()=>{
             key={id}
             id={c.id}
             item={c.item}
-            
             complete={c.complete}
-            
             remove={remove}
             handleComplete={handleComplete}
           />
