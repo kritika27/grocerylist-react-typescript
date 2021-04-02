@@ -6,12 +6,11 @@ It is a beginner friendly Grocery list App built using ReactJS and TypeScript.
 
 ## Demo
 
-👉 [Link](unruffled-bardeen-8a446a.netlify.app/)
+👉 [Link](https://unruffled-bardeen-8a446a.netlify.app/)
 
 ## Screenshot
 
-![screenshot](https://user-images.githubusercontent.com/4997491/99678169-8934b980-2aa0-11eb-9d2f-f5a6d573d35f.JPG)
-
+![Screenshot](https://user-images.githubusercontent.com/4997491/113450829-460b2f80-941e-11eb-8757-1a8490a2ab00.JPG)
 
 ## Installation
 
